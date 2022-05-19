@@ -6,3 +6,6 @@ To run this program, you have to load the index.html file to your broswer. It'll
 
 ## Things to improve in the future
 I'd like to add a button to add multiple balls that each ball randomly acts when hits the corner.
+
+## License
+MIT Professinal Certificate in Coding: Full Stack Development with MERN
